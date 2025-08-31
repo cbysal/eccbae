@@ -1,0 +1,10 @@
+[submodule "bnsim"]
+	path = bnsim
+	url = https://github.com/cbysal/bnsim.git
+[submodule "prototype/ethex"]
+	path = prototype/ethex
+	url = https://github.com/cbysal/ethex.git
+[submodule "prototype/go-ethereum"]
+	path = prototype/go-ethereum
+	url = https://github.com/cbysal/go-ethereum.git
+	branch = v1.13.15-eccb
